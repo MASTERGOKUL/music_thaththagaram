@@ -122,7 +122,7 @@ def paa_vagai(Lines, linenum):
             else:
                 return "நேரிசை ஆசிரியப்பா"
     else:
-        return "Not a Aasiriyappa"
+        return "குறள் வெண்பா"
 
 
 lineNum = 0
